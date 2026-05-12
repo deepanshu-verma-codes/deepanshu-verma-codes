@@ -50,15 +50,15 @@
 <table border="0" align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deepanshu0verma&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" width="410" alt="Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deepanshu-verma-codes&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" width="410" alt="Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepanshu0verma&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" width="310" alt="Langs" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepanshu-verma-codes&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" width="310" alt="Langs" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu0verma&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&sideNums=38bdf8&currStreakLabel=38bdf8" width="100%" alt="Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-verma-codes&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&sideNums=38bdf8&currStreakLabel=38bdf8" width="100%" alt="Streak" />
     </td>
   </tr>
 </table>
