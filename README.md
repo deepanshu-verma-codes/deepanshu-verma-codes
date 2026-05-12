@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi,+I'm+Deepanshu+Verma;Full+Stack+Engineer+(SDE-2); Building+Scalable+AI+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi,+I'm+Deepanshu+Verma;Full+Stack+Engineer+(SDE-2);BBuilding+Scalable+AI+Solutions" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/6+_Years_Experience-38bdf8?style=flat-square&logo=clock&logoColor=white" />
