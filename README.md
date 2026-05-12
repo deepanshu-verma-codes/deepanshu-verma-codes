@@ -21,7 +21,7 @@
     </td>
     <td width="50%" valign="top">
       <strong>⚙️ Backend & AI</strong><br/>
-      • Node.js / Express / Python<br/>
+      • Node.js / Express.js / Python<br/>
       • LLM Prompt Engineering<br/>
       • rPPG / Health Tech Integrations
     </td>
@@ -31,12 +31,13 @@
       <strong>📦 DevOps & Databases</strong><br/>
       • Docker / AWS (EC2, S3)<br/>
       • CI/CD / GitHub Actions<br/>
-      • MongoDB / PostgreSQL
+      • MongoDB / PostgreSQL / MySQL
     </td>
-    <td width="50%" valign="top">
+  <td width="50%" valign="top">
       <strong>👨‍💻 Professional Workflow</strong><br/>
-      • Cursor AI / Deterministic Output<br/>
-      • Modular Architecture<br/>
+      • Gemini & Anthropic API Integration<br/>
+      • Deterministic Prompt Engineering<br/>
+      • Modular Design & AI Auditing<br/>
       • Unit Testing & Documentation
     </td>
   </tr>
@@ -66,9 +67,9 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/deepanshu-v-964126139/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vermadeepanshu123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://portfolio-3d-five-rouge.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 </div>
