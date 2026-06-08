@@ -126,33 +126,35 @@ const deepanshu = {
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 AI-Powered Platforms</h3>
-      <p>End-to-end LLM integrations using OpenAI, Anthropic & Gemini. Deterministic prompt pipelines, LangChain orchestration, vector databases, and intelligent AI workflow automation.</p>
+      <h3>🤖 AI & LLM-Powered Apps</h3>
+      <p>Production-grade AI integrations using OpenAI, Anthropic Claude & Gemini. I build real features — intelligent chat systems, prompt pipelines, LangChain agents, vector search, and AI workflow automation that ships to real users.</p>
     </td>
     <td width="50%">
-      <h3>💓 Health Tech & rPPG</h3>
-      <p>Remote Photoplethysmography (rPPG) + Amazon Rekognition for real-time vitals detection via camera. Bridging AI and health monitoring at production scale.</p>
+      <h3>💓 Health Tech & Computer Vision</h3>
+      <p>Built rPPG (Remote Photoplethysmography) systems using camera feeds + Amazon Rekognition to detect real-time vitals — heart rate, SpO2 — without any wearable device. AI meeting real-world health impact.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>⚡ High-Performance SaaS</h3>
-      <p>Scalable full-stack apps with Next.js App Router (SSR/SSG), optimized GraphQL/REST APIs, Redis caching, Socket.io real-time features, and CI/CD on AWS.</p>
+      <h3>⚡ Scalable SaaS Products</h3>
+      <p>End-to-end SaaS platforms with Next.js App Router (SSR/ISR), GraphQL & REST APIs, Redis caching, real-time Socket.io features, and fully automated CI/CD pipelines on AWS. Built to handle scale from day one.</p>
     </td>
     <td width="50%">
-      <h3>💳 Marketplace & Payments</h3>
-      <p>Stripe Connect & PayPal integrations, Sharetribe Flex marketplace builds, multi-vendor payment flows, webhook orchestration, and subscription billing systems.</p>
+      <h3>🛒 Marketplaces & Payment Systems</h3>
+      <p>Multi-vendor marketplace platforms using Sharetribe Flex with Stripe Connect & PayPal — handling split payments, escrow flows, subscription billing, and webhook orchestration at production scale.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧩 Full Stack Architecture</h3>
+      <p>Microservices design, middleware architecture, and monorepo setups. From schema design in PostgreSQL/MongoDB to API security, rate limiting, and optimized query performance — I own the full stack.</p>
+    </td>
+    <td width="50%">
+      <h3>🎨 Pixel-Perfect UI Engineering</h3>
+      <p>Crafting high-performance frontends with React, Next.js, Tailwind, ShadCN UI & Framer Motion. Obsessed with Core Web Vitals, accessibility, and interfaces that feel as good as they look.</p>
     </td>
   </tr>
 </table>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepanshu-verma-codes&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
 
