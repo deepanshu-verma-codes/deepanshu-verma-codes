@@ -25,14 +25,14 @@
 
 ```ts
 const deepanshu = {
-  role        : "Full Stack Developer Lead",
+  role        : "Full Stack Developer",
   experience  : "6+ years",
   frontend    : ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "ShadCN UI"],
-  backend     : ["Node.js", "Express.js", "Python", "GraphQL", "Socket.io"],
-  ai          : ["OpenAI", "Anthropic", "LangChain", "Prompt Engineering", "rPPG"],
-  cloud       : ["AWS", "Docker", "Supabase", "Vercel", "GitHub Actions"],
-  databases   : ["MongoDB", "PostgreSQL", "Redis", "MySQL"],
-  currently   : "Building AI-powered health tech & scalable SaaS platforms",
+  backend     : ["Node.js", "Express.js", "Python", "GraphQL", "Socket.io", "Bullmq","RBAC", "ABAC"],
+  ai          : ["OpenAI", "Anthropic", "Gemini", "Cursor AI", "Prompt Engineering", "RAG"],
+  cloud       : ["AWS", "Docker", "Vercel", "Render", "GitHub Actions"],
+  databases   : ["MongoDB", "PostgreSQL", "Redis", "MySQL", "Supabase"],
+  currently   : "Full-Stack Engineer integrating AI into scalable SaaS and modern marketplace architectures",
   available   : true,
   contact     : "vermadeepanshu123@gmail.com",
 };
