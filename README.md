@@ -25,10 +25,10 @@
 
 ```ts
 const deepanshu = {
-  role        : "Full Stack Developer",
+  role        : "Full Stack Engineer",
   experience  : "6+ years",
   frontend    : ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "ShadCN UI"],
-  backend     : ["Node.js", "Express.js", "Python", "GraphQL", "Socket.io", "Bullmq","RBAC", "ABAC"],
+  backend     : ["Node.js", "Express.js", "Python", "GraphQL", "Socket.io", "Bullmq", "RBAC", "ABAC"],
   ai          : ["OpenAI", "Anthropic", "Gemini", "Cursor AI", "Prompt Engineering", "RAG"],
   cloud       : ["AWS", "Docker", "Vercel", "Render", "GitHub Actions"],
   databases   : ["MongoDB", "PostgreSQL", "Redis", "MySQL", "Supabase"],
