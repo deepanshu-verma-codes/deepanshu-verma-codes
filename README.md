@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:38bdf8,100:0d1117&height=130&section=header&text=&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:38bdf8,100:0d1117&height=120&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Deepanshu+Verma+%F0%9F%91%8B;Full+Stack+Engineer;MERN+%26+Next.js+Specialist;AI+%26+LLM+Solutions+Architect;Turning+ideas+into+scalable+reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Deepanshu+Verma+%F0%9F%91%8B;Full+Stack+Engineer+%C2%B7+MERN+%26+Next.js;AI%2FLLM+Solutions+Architect;I+ship+products%2C+not+just+code." alt="Typing SVG" />
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/⚡_6%2B_Years_Experience-0d1117?style=for-the-badge&color=38bdf8" />
-  <img src="https://img.shields.io/badge/🌍_Remote_Ready-0d1117?style=for-the-badge&color=3fb950" />
-  <img src="https://img.shields.io/badge/🤖_AI_Architect-0d1117?style=for-the-badge&color=b57bee" />
+  <img src="https://img.shields.io/badge/⚡_5%2B_Years_Experience-0d1117?style=for-the-badge&color=38bdf8" />
+  <img src="https://img.shields.io/badge/🌍_Open_to_Remote-0d1117?style=for-the-badge&color=3fb950" />
+  <img src="https://img.shields.io/badge/🤖_AI_%2F_LLM_Architect-0d1117?style=for-the-badge&color=b57bee" />
   <img src="https://img.shields.io/badge/📍_India-0d1117?style=for-the-badge&color=e3b341" />
 </p>
-
-<br/>
 
 > *"I don't just write code — I architect experiences that scale."*
 
@@ -25,80 +23,101 @@
 
 ```ts
 const deepanshu = {
-  role        : "Full Stack Engineer",
-  experience  : "6+ years",
+  role        : "Full Stack Engineer / Developer Lead",
+  experience  : "5+ years",
   frontend    : ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "ShadCN UI"],
-  backend     : ["Node.js", "Express.js", "Python", "GraphQL", "Socket.io", "Bullmq", "RBAC", "ABAC"],
-  ai          : ["OpenAI", "Anthropic", "Gemini", "Cursor AI", "Prompt Engineering", "RAG"],
+  backend     : ["Node.js", "Express.js", "Python", "GraphQL", "Socket.io", "BullMQ", "RBAC/ABAC"],
+  ai          : ["OpenAI", "Anthropic", "LangChain", "Gemini", "Vector Databases", "RAG"],
   cloud       : ["AWS", "Docker", "Vercel", "Render", "GitHub Actions"],
   databases   : ["MongoDB", "PostgreSQL", "Redis", "MySQL", "Supabase"],
-  currently   : "Full-Stack Engineer integrating AI into scalable SaaS and modern marketplace architectures",
-  available   : true,
-  contact     : "vermadeepanshu123@gmail.com",
+  currently   : "Leading full-stack delivery and shipping AI-native SaaS products",
+  lookingFor  : "SDE-2 / SDE-3 roles — remote-first, open to relocation",
+  reachMe     : "vermadeepanshu123@gmail.com",
 };
 ```
 
 ---
 
-## 🛠️ Complete Tech Stack
+## 🛠️ Tech Stack
 
-### 🎨 Frontend & UI
-
+### Frontend & UI
 ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_SSR%2FSSG-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-### ⚙️ Backend & Architecture
-
+### Backend & Architecture
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF5733?style=flat-square&logo=webhook&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=azurepipelines&logoColor=white)
-![Middleware](https://img.shields.io/badge/Middleware_Design-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-### 🤖 AI & LLM Integration
-
+### AI & LLM Integration
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_Databases-FF4785?style=flat-square&logo=pinecone&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square&logo=openai&logoColor=white)
-![AI Workflow](https://img.shields.io/badge/AI_Workflow_Automation-00C7B7?style=flat-square&logo=zapier&logoColor=white)
-![Amazon Rekognition](https://img.shields.io/badge/Amazon_Rekognition-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### ☁️ Cloud, DevOps & Databases
-
-![AWS](https://img.shields.io/badge/AWS_S3%2FEC2%2FRDS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+### Cloud, DevOps & Databases
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-### 🔧 Tools & Integrations
-
+### Payments & Tooling
 ![Stripe](https://img.shields.io/badge/Stripe_Connect-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white)
-![Sharetribe](https://img.shields.io/badge/Sharetribe_Flex-E84D4F?style=flat-square&logo=shopify&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira_%2F_Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Builds
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧑‍💼 Vivian Lab</h3>
+      <p>AI-powered hiring platform using Anthropic Claude + vector search to match candidates against role requirements with real reasoning, not keyword matching.</p>
+      <code>Next.js · Anthropic API · Vector DB</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚢 OnBuoy</h3>
+      <p>Maritime tracking dashboard for fleet operators — live vessel positioning, ops analytics, and Stripe Connect–powered billing for multi-tenant accounts.</p>
+      <code>React · Node.js · Stripe Connect</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 NEXTMED</h3>
+      <p>Healthcare SaaS with OpenAI-driven clinical workflows — built for speed and compliance in patient-facing and provider-facing flows alike.</p>
+      <code>Next.js · OpenAI · PostgreSQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏖️ VacanzaStays</h3>
+      <p>Vacation rental marketplace with end-to-end booking, host/guest messaging, and payment orchestration at production scale.</p>
+      <code>MERN · Sharetribe Flex · Stripe</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🛍️ ShapeShopp</h3>
+      <p>E-commerce platform with AI-driven product recommendations — personalized discovery built to lift conversion, not just look smart in a demo.</p>
+      <code>React · Node.js · OpenAI</code>
+    </td>
+  </tr>
+</table>
+
+> 📌 *Swap the repo links above to point at the live repos — `[Vivian Lab](your-repo-url)` — once pinned.*
 
 ---
 
@@ -106,55 +125,14 @@ const deepanshu = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deepanshu-verma-codes&show_icons=true&theme=github_dark&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=e6edf3&bg_color=0d1117&ring_color=38bdf8&include_all_commits=true&count_private=true" height="185" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepanshu-verma-codes&layout=compact&theme=github_dark&hide_border=true&title_color=38bdf8&text_color=e6edf3&bg_color=0d1117&langs_count=8" height="185" alt="Top Languages" />
-
-<br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deepanshu-verma-codes&show_icons=true&theme=github_dark&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=e6edf3&bg_color=0d1117&ring_color=38bdf8&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepanshu-verma-codes&layout=compact&theme=github_dark&hide_border=true&title_color=38bdf8&text_color=e6edf3&bg_color=0d1117&langs_count=8" height="180" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-verma-codes&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=e6edf3&dates=8b949e" width="700" alt="Streak Stats" />
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-verma-codes&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
-
----
-
-## 🚀 What I Build
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 AI & LLM-Powered Apps</h3>
-      <p>Production-grade AI integrations using OpenAI, Anthropic Claude & Gemini. I build real features — intelligent chat systems, prompt pipelines, LangChain agents, vector search, and AI workflow automation that ships to real users.</p>
-    </td>
-    <td width="50%">
-      <h3>💓 Health Tech & Computer Vision</h3>
-      <p>Built rPPG (Remote Photoplethysmography) systems using camera feeds + Amazon Rekognition to detect real-time vitals — heart rate, SpO2 — without any wearable device. AI meeting real-world health impact.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚡ Scalable SaaS Products</h3>
-      <p>End-to-end SaaS platforms with Next.js App Router (SSR/ISR), GraphQL & REST APIs, Redis caching, real-time Socket.io features, and fully automated CI/CD pipelines on AWS. Built to handle scale from day one.</p>
-    </td>
-    <td width="50%">
-      <h3>🛒 Marketplaces & Payment Systems</h3>
-      <p>Multi-vendor marketplace platforms using Sharetribe Flex with Stripe Connect & PayPal — handling split payments, escrow flows, subscription billing, and webhook orchestration at production scale.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🧩 Full Stack Architecture</h3>
-      <p>Microservices design, middleware architecture, and monorepo setups. From schema design in PostgreSQL/MongoDB to API security, rate limiting, and optimized query performance — I own the full stack.</p>
-    </td>
-    <td width="50%">
-      <h3>🎨 Pixel-Perfect UI Engineering</h3>
-      <p>Crafting high-performance frontends with React, Next.js, Tailwind, ShadCN UI & Framer Motion. Obsessed with Core Web Vitals, accessibility, and interfaces that feel as good as they look.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -171,7 +149,5 @@ const deepanshu = {
 <img src="https://komarev.com/ghpvc/?username=deepanshu-verma-codes&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:38bdf8,100:0d1117&height=100&section=footer" width="100%" />
