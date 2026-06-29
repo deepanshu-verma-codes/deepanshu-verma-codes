@@ -156,7 +156,7 @@ const deepanshu = {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=deepanshu-verma-codes&theme=darkhub&no-frame=true&no-bg=true&row=1&margin-w=8&column=6" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=deepanshu-verma-codes&theme=discord&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
 
 <br/>
 
